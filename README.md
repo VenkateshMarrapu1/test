@@ -1,2 +1,2 @@
 # test
-Practicing Git commands    
+Practicing Git commands and learning. 
